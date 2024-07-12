@@ -3,7 +3,7 @@ name = "env"
 version = "0.0.1"
 schema_version = 1
 authors = ["Daniel Zarifpour <z@rifpour.xyz>"]
-description = "🔐 env support. ✰ and report issues ➩"
+description = "🔐 Environment support. ✰ and report issues ➩"
 repository = "https://github.com/zarifpour/zed-env"
 
 [grammars.env]

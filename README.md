@@ -1,6 +1,6 @@
-# 🔐 dotenv Support for Zed
+# 🔐 Environment Support for Zed
 
-Enhance Zed with dotenv syntax highlighting!
+Enhance Zed with environment syntax highlighting!
 
 - Tree Sitter: [tree-sitter-dotenv](https://github.com/zarifpour/tree-sitter-dotenv)
 
