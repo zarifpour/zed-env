@@ -2,6 +2,7 @@
 
 Enhance Zed with environment syntax highlighting!
 
+- Supports `.env` and `.conf` files.
 - Tree Sitter: [tree-sitter-dotenv](https://github.com/zarifpour/tree-sitter-dotenv)
 
 ![screenshot.png](public/screenshot.png)
