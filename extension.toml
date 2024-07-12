@@ -1,0 +1,11 @@
+id = "env"
+name = "env"
+version = "0.0.1"
+schema_version = 1
+authors = ["Daniel Zarifpour <z@rifpour.xyz>"]
+description = "🔐 env support. ✰ and report issues ➩"
+repository = "https://github.com/zarifpour/zed-env"
+
+[grammars.env]
+repository = "https://github.com/zarifpour/tree-sitter-dotenv"
+commit = "ca2f5a0e71a3095743e9a7e803fe72fdd0fce316"

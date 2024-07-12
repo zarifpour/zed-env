@@ -1,0 +1,5 @@
+.DS_Store
+*.wasm
+tree-sitter-*
+target/
+grammars/

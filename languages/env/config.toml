@@ -1,0 +1,10 @@
+name = "env"
+grammar = "env"
+path_suffixes = ["env", "envrc", "example"]
+autoclose_before = ";:.,=}])>"
+line_comments = ["# "]
+brackets = [
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "[", end = "]", close = true, newline = true },
+    { start = "(", end = ")", close = true, newline = true },
+]
