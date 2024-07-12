@@ -3,8 +3,16 @@
 (variable) @variable
 (bool) @boolean
 (integer) @number
-(string_interpolated) @string
+
+(interpolated_variable) @string.escape
+
+[
+    (string_interpolated)
+    (string_literal)
+] @string
+
 (url) @link_uri
+
 [
     "="
 ] @operator
