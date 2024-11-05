@@ -1,6 +1,6 @@
 name = "env"
 grammar = "env"
-path_suffixes = ["conf", "env", "envrc", "example", "local"]
+path_suffixes = ["conf", "env", "envrc", "example", "local", "test"]
 autoclose_before = ";:.,=}])>"
 line_comments = ["# "]
 brackets = [
