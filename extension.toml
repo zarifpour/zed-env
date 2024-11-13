@@ -1,6 +1,6 @@
 id = "env"
 name = "env"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Daniel Zarifpour <z@rifpour.xyz>"]
 description = "🔐 Environment support. ✰ and report issues ➩"
